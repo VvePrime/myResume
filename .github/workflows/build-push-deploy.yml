@@ -1,4 +1,4 @@
-name: Manual Build and Push to ECR
+name: Manual Build, Push to ECR and Deploy to EC2
 
 on:
   workflow_dispatch:
